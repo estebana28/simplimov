@@ -1,0 +1,71 @@
+
+[
+  {
+  "id": "d6fb5bc8-269f-47cd-bc96",
+  "name": "CLASSIC 500",
+  "detail": {
+  "price": {
+  "amount": "5900",
+  "currency": "USD"
+  },
+  "gallery": [
+  "https://s3.sa-east-1.amazonaws.com/simplimotos-stg.com/0372470d-f66c-497a-af50-cf170340003d/d6fb
+  5bc8-269f-47cd-bc96-1aea12a7f72e/large-33d50fdf-4917-487f-b24c-d91f7ac01296.png",
+  "https://s3.sa-east-1.amazonaws.com/simplimotos-stg.com/0372470d-f66c-497a-af50-cf170340003d/d6fb
+  5bc8-269f-47cd-bc96-1aea12a7f72e/large-a7185c3e-f725-4c6b-873b-38a57145d7d0.png"
+  ],
+  "main_image":
+  "https://s3.sa-east-1.amazonaws.com/simplimotos-stg.com/0372470d-f66c-497a-af50-cf170340003d/d6fb
+  5bc8-269f-47cd-bc96-1aea12a7f72e/large-33d50fdf-4917-487f-b24c-d91f7ac01296.png",
+  "description": "xxxxx xxxxxx xxxxx xxxxxx xxxx"
+  },
+  "slug": "classic-500",
+  "product_type": "motorcycle",
+  "is_active": true
+  },
+  {
+  "id": "e475eb1c-3196-42ff-8ecd",
+  "name": "Continental GT 650",
+  "detail": {
+  "price": {"amount": "5700",
+  "currency": "USD"
+  },
+  "gallery": [
+  "https://s3.sa-east-1.amazonaws.com/simplimotos-stg.com/0372470d-f66c-497a-af50-cf170340003d/e47
+  5eb1c-3196-42ff-8ecd-706489c72346/large-1bb02e02-bee0-4778-aa75-b91b57a11beb.png",
+  "https://s3.sa-east-1.amazonaws.com/simplimotos-stg.com/0372470d-f66c-497a-af50-cf170340003d/e47
+  5eb1c-3196-42ff-8ecd-706489c72346/large-f171c5a8-6c87-48b3-8e9c-c0a711c7ccdf.png"
+  ],
+  "main_image":
+  "https://s3.sa-east-1.amazonaws.com/simplimotos-stg.com/0372470d-f66c-497a-af50-cf170340003d/e47
+  5eb1c-3196-42ff-8ecd-706489c72346/large-1bb02e02-bee0-4778-aa75-b91b57a11beb.png",
+  "description": "xxxxxx xxxxxxxx xxxxxxxxx xxxxx"
+  },
+  "slug": "continental-gt-650",
+  "product_type": "motorcycle",
+  "is_active": true
+  },
+  {
+  "id": "e475eb1c-3196-42ff-8ecd",
+  "name": "Hide This Product!!",
+  "detail": {
+  "price": {
+  "amount": "5700",
+  "currency": "USD"
+  },
+  "gallery": [
+  "https://s3.sa-east-1.amazonaws.com/simplimotos-stg.com/0372470d-f66c-497a-af50-cf170340003d/e47
+  5eb1c-3196-42ff-8ecd-706489c72346/large-1bb02e02-bee0-4778-aa75-b91b57a11beb.png",
+  "https://s3.sa-east-1.amazonaws.com/simplimotos-stg.com/0372470d-f66c-497a-af50-cf170340003d/e47
+  5eb1c-3196-42ff-8ecd-706489c72346/large-f171c5a8-6c87-48b3-8e9c-c0a711c7ccdf.png"
+  ],
+  "main_image":
+  "https://s3.sa-east-1.amazonaws.com/simplimotos-stg.com/0372470d-f66c-497a-af50-cf170340003d/e47
+  5eb1c-3196-42ff-8ecd-706489c72346/large-1bb02e02-bee0-4778-aa75-b91b57a11beb.png",
+  "description": "xxxxxx xxxxxxxx xxxxxxxxx xxxxx"
+  },
+  "slug": "continental-gt-650",
+  "product_type": "motorcycle",
+  "is_active": false
+  }
+]
