@@ -1,20 +1,30 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
+import axios from 'axios';
 
-const Bike = (({bike}) => {
-  const { model, price, image, slug } = bike;
-  
-  return (
-    <div className="bike-wrapper">
-      <Link to={'/bike/${slug}'}>
-        <div>
-          <img src={image} alt=""/>
-          <h2>{model}</h2>
-          <h3>{price}</h3>
-        </div>
-      </Link>
-    </div>
-  )
-})
+export default class PersonList extends React.Component {
+  state = {
+    data: {}
+  }
+  componentDidMount() {
+    axios.get('../data.json')
+      .then(res => {
+        const data = res.data;
+        this.setState({ data });
+        console.log(data);
 
-export default Bike
+      })
+  }
+
+
+  render() {
+    return (
+      <div className="bike-wrapper">
+          <div>
+            <img src='' alt=""/>
+            <h2></h2>
+            <h3>Ola </h3>
+          </div>
+      </div>
+    )
+  }
+}

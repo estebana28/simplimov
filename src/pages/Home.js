@@ -1,14 +1,14 @@
 import React from 'react';
 import Header from '../components/Header';
 import Footer from '../components/Footer';
-import Bikelist from '../components/Bikelist';
+import Bike from '../components/Bike';
 
 const Home = () => {
   return (
     <>
       <Header></Header>
         <main>
-          <Bikelist />
+          <Bike />
         </main>
       <Footer></Footer>
     </>
