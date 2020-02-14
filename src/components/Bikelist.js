@@ -1,18 +1,31 @@
 import React from 'react';
 import Bike from './Bike';
+import axios from 'axios';
+import { Item } from 'react-bootstrap/lib/Breadcrumb';
 
-const Bikelist = ({bikes}) => {
-  return (
-    <section></section> )}
-    //<section>
-      // <ul className="re-bikelist">
-      //   {bikes.map(item => {
-      //     return <Bike key={item.id} bike={item} />
-      //   })}
-      // </ul>
-    //</section>
-  
+export default class Header extends React.Component {
+  state = {
+    config: [],
+    product: []
+  }
 
+  componentDidMount() {
+    axios.get('https://api.myjson.com/bins/7gads')
+      .then(res => {
+        const product = res.data;
+        this.setState({ product });
+        console.log(product);
+      })
+  }
 
-export default Bikelist
-
+  const Bikelist = ({ bikes }) => {
+    return (
+      <section>
+        <ul>
+          {bikes.map(item => {
+            return <Bike key={Item.id} bike={item} />;
+          })}
+        </ul>
+      </section>
+    );
+  };

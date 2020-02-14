@@ -3,7 +3,8 @@ import axios from 'axios';
 
 export default class Header extends React.Component {
   state = {
-    config: {}
+    config: [],
+    product: []
   }
 
   componentDidMount() {
@@ -11,27 +12,18 @@ export default class Header extends React.Component {
       .then(res => {
         const config = res.data;
         this.setState({ config });
-        console.log(config);
       })
   }
 
   render() {
-    const { logo:{img} } = this.state.config;
+    const { index_header_image, logo:{ img } = {}} = this.state.config;
     return (
-      <div>
-        <p></p>
-        <img src={} alt=""/>
-      </div>
+      <nav className="navbar">
+          <a className="navbar-brand mx-auto" href="# ">
+            <img src={img} alt="Royal Enfield Logo" width="200" />
+          </a>
+          <img className="index-header" src={index_header_image} alt="Royal Enfield Background"/>
+      </nav>
     )
   }
 }
-//   return (
-//       <header className="re-navbar">
-//         <Link to="/">
-//           <img src="" alt="Royal Enfield Header"/>
-//         </Link>
-//       </header>
-//   )
-
-
-// export default Header
