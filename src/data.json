@@ -1,29 +1,29 @@
 {
-  "config": {
-    "logo": {
-    "Img":
-    "https://s3.sa-east-1.amazonaws.com/simplimotos-stg.com/0372470d-f66c-497a-af50-cf170340003d/med
-    ium-9a671e3a-8b08-4fc8-a632-02a48a765775.png",
-    },
-    "index_header_image": "http://77.74.192.164/imagestream/22063/1687838x1500x600_000000_E.jpg",
-    "detail_header_image":
-    "https://www.royal-enfield.cl/wp-content/uploads/2019/08/royalenfield_home_hero_twins-2.jpg",
-    "social": {
+  "logo": 
+  {
+    "img": "https://s3.sa-east-1.amazonaws.com/simplimotos-stg.com/0372470d-f66c-497a-af50-cf170340003d/medium-9a671e3a-8b08-4fc8-a632-02a48a765775.png"
+  },
+  "index_header_image": "http://77.74.192.164/imagestream/22063/1687838x1500x600_000000_E.jpg",
+  "detail_header_image": "https://www.royal-enfield.cl/wp-content/uploads/2019/08/royalenfield_home_hero_twins-2.jpg",
+  "social": 
+  {
     "fb": "https://www.facebook.com/RoyalEnfieldAG/",
-    "ln": "https://www.linkedin.com/feed/","tw": "https://twitter.com/royalenfield",
+    "ln": "https://www.linkedin.com/feed/",
+    "tw": "https://twitter.com/royalenfield",
     "yt": "https://www.youtube.com/channel/UCyxUUHqmz9IiAnrROJc0mag",
     "ins": "https://www.instagram.com/royalenfield/"
-    },
-    "actions": {
+  },
+  "actions": 
+  {
     "save": true
-    },
-    "contact": {
+  },
+  "contact": 
+  {
     "tel": "1800 210 0007",
     "email": "test@test.com",
     "address": "226 N Water St, Milwaukee, WI 53202, Estados Unidos"
-    }
   }
-},
+}
 {
   "product": 
   [

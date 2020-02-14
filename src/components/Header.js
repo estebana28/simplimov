@@ -1,15 +1,37 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
-import HeaderImage from '../images/header.jpg'
+import axios from 'axios';
 
-const Header = () => {
-  return (
-      <header className="re-navbar">
-        <Link to="/">
-          <img src={HeaderImage} alt="Royal Enfield Header"/>
-        </Link>
-      </header>
-  )
+export default class Header extends React.Component {
+  state = {
+    config: {}
+  }
+
+  componentDidMount() {
+    axios.get('https://api.myjson.com/bins/17dcjc')
+      .then(res => {
+        const config = res.data;
+        this.setState({ config });
+        console.log(config);
+      })
+  }
+
+  render() {
+    const { logo:{img} } = this.state.config;
+    return (
+      <div>
+        <p></p>
+        <img src={} alt=""/>
+      </div>
+    )
+  }
 }
+//   return (
+//       <header className="re-navbar">
+//         <Link to="/">
+//           <img src="" alt="Royal Enfield Header"/>
+//         </Link>
+//       </header>
+//   )
 
-export default Header
+
+// export default Header
