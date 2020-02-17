@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/simplimov/static/css/main.b0ad342c.chunk.css",
-    "main.js": "/simplimov/static/js/main.560a3086.chunk.js",
-    "main.js.map": "/simplimov/static/js/main.560a3086.chunk.js.map",
+    "main.css": "/simplimov/static/css/main.52ebc408.chunk.css",
+    "main.js": "/simplimov/static/js/main.1ef300bc.chunk.js",
+    "main.js.map": "/simplimov/static/js/main.1ef300bc.chunk.js.map",
     "runtime-main.js": "/simplimov/static/js/runtime-main.b38f788d.js",
     "runtime-main.js.map": "/simplimov/static/js/runtime-main.b38f788d.js.map",
     "static/css/2.47e06e2e.chunk.css": "/simplimov/static/css/2.47e06e2e.chunk.css",
     "static/js/2.2f2895b8.chunk.js": "/simplimov/static/js/2.2f2895b8.chunk.js",
     "static/js/2.2f2895b8.chunk.js.map": "/simplimov/static/js/2.2f2895b8.chunk.js.map",
     "index.html": "/simplimov/index.html",
-    "precache-manifest.3d3d05cf1bf90b2ae35feed10b90df82.js": "/simplimov/precache-manifest.3d3d05cf1bf90b2ae35feed10b90df82.js",
+    "precache-manifest.5bdd44b06829f4725b2c1fe84d91c55f.js": "/simplimov/precache-manifest.5bdd44b06829f4725b2c1fe84d91c55f.js",
     "service-worker.js": "/simplimov/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/simplimov/static/css/2.47e06e2e.chunk.css.map",
-    "static/css/main.b0ad342c.chunk.css.map": "/simplimov/static/css/main.b0ad342c.chunk.css.map",
+    "static/css/main.52ebc408.chunk.css.map": "/simplimov/static/css/main.52ebc408.chunk.css.map",
     "static/js/2.2f2895b8.chunk.js.LICENSE.txt": "/simplimov/static/js/2.2f2895b8.chunk.js.LICENSE.txt",
     "static/media/facebook.svg": "/simplimov/static/media/facebook.b3857282.svg",
     "static/media/instagram.svg": "/simplimov/static/media/instagram.3b55b2ec.svg",
@@ -24,7 +24,7 @@
     "static/js/runtime-main.b38f788d.js",
     "static/css/2.47e06e2e.chunk.css",
     "static/js/2.2f2895b8.chunk.js",
-    "static/css/main.b0ad342c.chunk.css",
-    "static/js/main.560a3086.chunk.js"
+    "static/css/main.52ebc408.chunk.css",
+    "static/js/main.1ef300bc.chunk.js"
   ]
 }
