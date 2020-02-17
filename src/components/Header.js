@@ -18,9 +18,9 @@ export default class Header extends React.Component {
   render() {
     const { index_header_image, logo:{ img } = {}} = this.state.config;
     return (
-      <nav className="navbar bg-dark p-0">
+      <nav className="navbar bg-dark p-0 vw-100">
           <a className="navbar-brand mx-auto py-20" href="# ">
-            <img src={img} alt="Royal Enfield Logo" width="200" />
+            <img className="ml-md-5 mb-md-4" src={img} alt="Royal Enfield Logo" width="200" />
           </a>
           <img className="index-header" src={index_header_image} alt="Royal Enfield Background"/>
       </nav>

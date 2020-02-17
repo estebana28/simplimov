@@ -25,7 +25,7 @@ const Bikelist = () => {
 
   return (
     <section>
-      <ul className="bike-list mx-md-auto">
+      <ul className="bike-list mx-md-auto d-flex flex-row">
         {bikes?.map((bike) => {
           if(bike.is_active) {
           return (

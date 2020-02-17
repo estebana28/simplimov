@@ -36,16 +36,16 @@ const Footer = () => {
 
 
     return (
-      <footer className="sticky-bottom text-left bg-dark row">
+      <footer className="sticky-bottom text-left bg-dark row vw-100 ml-0">
         {!contact ? <div> Cargando... </div>:
-          <div className="ml-md-4 col-12 ml-4 col-md-5 my-md-3">
+          <div className="pl-md-4 col-12 pl-4 col-md-5 my-md-4 px-0 vw-100">
             <h3 className="font-weight-bold text-white">Contacto</h3>
             <p className="text-white mb-0">{contact.tel}</p>
             <p className="text-white mb-0">{contact.email}</p>
             <p className="text-white mb-0">{contact.address}</p>
           </div>}
         {!social ? <div> Cargando... </div>:
-          <div className="ml-md-4 ml-4 col-12 col-md-6 mt-5 my-md-3">
+          <div className="pl-md-4 pl-4 col-12 col-md-6 my-4 px-0 vw-100">
             <h3 className="font-weight-bold text-white">Nuestras Redes</h3>
             <ul className="social-links pl-md-0">
               <li className="d-inline pl-md-2"><a href={social.fb} target="_blank" rel="noopener noreferrer"><img src={fb_img} alt="Facebook Icon" width="50px"/></a></li>

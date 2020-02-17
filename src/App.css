@@ -1,10 +1,4 @@
 
-
-.image_header {
-  width: 100vw;
-  opacity: 0;
-}
-
 .index-header {
   display: none;
 }
@@ -14,16 +8,10 @@ ul {
 }
 
 @media (min-width: 769px) {
-  .navbar {
-    background-color: #fff;
-    height: 30vh;
-    width: 100vw;
-  }
+  
   .navbar-brand {
     position: absolute;
     z-index: 1;
-    top: 2rem;
-    left: 2rem;
   }
 
   .index-header {
@@ -34,10 +22,6 @@ ul {
     object-fit: cover;
   }
 
-  .bike-list {
-    display: flex;
-    flex-direction: row;
-  }  
 
 
 }
