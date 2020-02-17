@@ -1,9 +1,4 @@
 
-.navbar {
-  padding: 0 !important;
-  background-color: #333333;
-  height: 20vh;
-}
 
 .image_header {
   width: 100vw;
@@ -14,8 +9,9 @@
   display: none;
 }
 
-
-
+ul {
+  list-style-type: none;
+}
 
 @media (min-width: 769px) {
   .navbar {
@@ -37,6 +33,13 @@
     height: 30vh;
     object-fit: cover;
   }
+
+  .bike-list {
+    display: flex;
+    flex-direction: row;
+  }  
+
+
 }
 
 

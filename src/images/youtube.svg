@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-youtube"><path d="M22.54 6.42a2.78 2.78 0 0 0-1.94-2C18.88 4 12 4 12 4s-6.88 0-8.6.46a2.78 2.78 0 0 0-1.94 2A29 29 0 0 0 1 11.75a29 29 0 0 0 .46 5.33A2.78 2.78 0 0 0 3.4 19c1.72.46 8.6.46 8.6.46s6.88 0 8.6-.46a2.78 2.78 0 0 0 1.94-2 29 29 0 0 0 .46-5.25 29 29 0 0 0-.46-5.33z"></path><polygon points="9.75 15.02 15.5 11.75 9.75 8.48 9.75 15.02"></polygon></svg>
+<svg width="24" height="24" xmlns="http://www.w3.org/2000/svg" class="feather feather-youtube">
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <path fill="#ffffff" id="svg_1" d="m22.54,6.42a2.78,2.78 0 0 0 -1.94,-2c-1.72,-0.42 -8.6,-0.42 -8.6,-0.42s-6.88,0 -8.6,0.46a2.78,2.78 0 0 0 -1.94,2a29,29 0 0 0 -0.46,5.29a29,29 0 0 0 0.46,5.33a2.78,2.78 0 0 0 1.94,1.92c1.72,0.46 8.6,0.46 8.6,0.46s6.88,0 8.6,-0.46a2.78,2.78 0 0 0 1.94,-2a29,29 0 0 0 0.46,-5.25a29,29 0 0 0 -0.46,-5.33z"/>
+  <polygon fill="#333333" id="svg_2" points="9.75 15.02 15.5 11.75 9.75 8.48 9.75 15.02"/>
+ </g>
+</svg>
