@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/simplimov/static/css/main.34db05c5.chunk.css",
-    "main.js": "/simplimov/static/js/main.2de8e937.chunk.js",
-    "main.js.map": "/simplimov/static/js/main.2de8e937.chunk.js.map",
+    "main.css": "/simplimov/static/css/main.68c2dfac.chunk.css",
+    "main.js": "/simplimov/static/js/main.6379a6bf.chunk.js",
+    "main.js.map": "/simplimov/static/js/main.6379a6bf.chunk.js.map",
     "runtime-main.js": "/simplimov/static/js/runtime-main.b38f788d.js",
     "runtime-main.js.map": "/simplimov/static/js/runtime-main.b38f788d.js.map",
     "static/css/2.47e06e2e.chunk.css": "/simplimov/static/css/2.47e06e2e.chunk.css",
     "static/js/2.2f2895b8.chunk.js": "/simplimov/static/js/2.2f2895b8.chunk.js",
     "static/js/2.2f2895b8.chunk.js.map": "/simplimov/static/js/2.2f2895b8.chunk.js.map",
     "index.html": "/simplimov/index.html",
-    "precache-manifest.79226991acbd7c2a4efbf2cbe3097ca4.js": "/simplimov/precache-manifest.79226991acbd7c2a4efbf2cbe3097ca4.js",
+    "precache-manifest.5648459807931ff5de030631db3588eb.js": "/simplimov/precache-manifest.5648459807931ff5de030631db3588eb.js",
     "service-worker.js": "/simplimov/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/simplimov/static/css/2.47e06e2e.chunk.css.map",
-    "static/css/main.34db05c5.chunk.css.map": "/simplimov/static/css/main.34db05c5.chunk.css.map",
+    "static/css/main.68c2dfac.chunk.css.map": "/simplimov/static/css/main.68c2dfac.chunk.css.map",
     "static/js/2.2f2895b8.chunk.js.LICENSE.txt": "/simplimov/static/js/2.2f2895b8.chunk.js.LICENSE.txt",
-    "static/media/facebook.svg": "/simplimov/static/media/facebook.b3857282.svg",
-    "static/media/instagram.svg": "/simplimov/static/media/instagram.3b55b2ec.svg",
-    "static/media/linkedin.svg": "/simplimov/static/media/linkedin.ad6791b4.svg",
-    "static/media/twitter.svg": "/simplimov/static/media/twitter.e673fe54.svg",
-    "static/media/youtube.svg": "/simplimov/static/media/youtube.28a3403c.svg"
+    "static/media/facebook.svg": "/simplimov/static/media/facebook.f16b7209.svg",
+    "static/media/instagram.svg": "/simplimov/static/media/instagram.4da54c86.svg",
+    "static/media/linkedin.svg": "/simplimov/static/media/linkedin.e2dc51d4.svg",
+    "static/media/twitter.svg": "/simplimov/static/media/twitter.d7695908.svg",
+    "static/media/youtube.svg": "/simplimov/static/media/youtube.986e5863.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.b38f788d.js",
     "static/css/2.47e06e2e.chunk.css",
     "static/js/2.2f2895b8.chunk.js",
-    "static/css/main.34db05c5.chunk.css",
-    "static/js/main.2de8e937.chunk.js"
+    "static/css/main.68c2dfac.chunk.css",
+    "static/js/main.6379a6bf.chunk.js"
   ]
 }
