@@ -38,21 +38,21 @@ const Footer = () => {
     return (
       <footer className="sticky-bottom text-left bg-dark row vw-100 ml-0">
         {!contact ? <div> Cargando... </div>:
-          <div className="pl-md-4 col-12 pl-4 col-md-5 my-md-4 px-0 vw-100">
+          <div className="pl-lg-4 col-12 pl-4 col-lg-5 my-lg-4 px-0 vw-100">
             <h3 className="font-weight-bold text-white">Contacto</h3>
             <p className="text-white mb-0">{contact.tel}</p>
             <p className="text-white mb-0">{contact.email}</p>
             <p className="text-white mb-0">{contact.address}</p>
           </div>}
         {!social ? <div> Cargando... </div>:
-          <div className="pl-md-4 pl-4 col-12 col-md-6 my-4 px-0 vw-100">
+          <div className="pl-lg-4 pl-4 col-12 col-lg-6 my-4 px-0 vw-100">
             <h3 className="font-weight-bold text-white">Nuestras Redes</h3>
-            <ul className="social-links pl-md-0">
-              <li className="d-inline pl-md-2"><a href={social.fb} target="_blank" rel="noopener noreferrer"><img src={fb_img} alt="Facebook Icon" width="50px"/></a></li>
-              <li className="d-inline pl-md-2"><a href={social.ln} target="_blank" rel="noopener noreferrer"><img src={ln_img} alt="LinkedIn Icon" width="50px"/></a></li>
-              <li className="d-inline pl-md-2"><a href={social.tw} target="_blank" rel="noopener noreferrer"><img src={tw_img} alt="Twitter Icon" width="50px"/></a></li>
-              <li className="d-inline pl-md-2"><a href={social.yt} target="_blank" rel="noopener noreferrer"><img src={yt_img} alt="Youtube Icon" width="50px"/></a></li>
-              <li className="d-inline pl-md-2"><a href={social.ins} target="_blank" rel="noopener noreferrer"><img src={ins_img} alt="Instagram Icon" width="50px"/></a></li>
+            <ul className="social-links pl-lg-0 pl-0">
+              <li className="d-inline pl-lg-2"><a href={social.fb} target="_blank" rel="noopener noreferrer"><img src={fb_img} alt="Facebook Icon" width="40px"/></a></li>
+              <li className="d-inline pl-lg-2"><a href={social.ln} target="_blank" rel="noopener noreferrer"><img src={ln_img} alt="LinkedIn Icon" width="40px"/></a></li>
+              <li className="d-inline pl-lg-2"><a href={social.tw} target="_blank" rel="noopener noreferrer"><img src={tw_img} alt="Twitter Icon" width="40px"/></a></li>
+              <li className="d-inline pl-lg-2"><a href={social.yt} target="_blank" rel="noopener noreferrer"><img src={yt_img} alt="Youtube Icon" width="40px"/></a></li>
+              <li className="d-inline pl-lg-2"><a href={social.ins} target="_blank" rel="noopener noreferrer"><img src={ins_img} alt="Instagram Icon" width="40px"/></a></li>
             </ul>
           </div>}
       </footer>

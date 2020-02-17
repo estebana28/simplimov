@@ -25,11 +25,11 @@ const Bikelist = () => {
 
   return (
     <section>
-      <ul className="bike-list mx-md-auto d-flex flex-row">
+      <ul className="bike-list mx-lg-auto d-flex flex-column flex-lg-row">
         {bikes?.map((bike) => {
           if(bike.is_active) {
           return (
-          <li className="card bike-card ml-md-1 mt-5 ml-3 mr-5 w-md-25 w-80 my-md-5" key={bike.id}>
+          <li className="card bike-card ml-lg-1 mt-5 ml-3 mr-5 w-lg-25 w-90 my-lg-5" key={bike.id}>
             <img className="card-img-top bg-dark" src={bike.detail.main_image} alt={bike.name + " photo"} />
             <div className="card-body">
               <p className="card-text h1">{bike.name}</p>
