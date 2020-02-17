@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/simplimov/static/css/main.b0ad342c.chunk.css",
+    "main.js": "/simplimov/static/js/main.560a3086.chunk.js",
+    "main.js.map": "/simplimov/static/js/main.560a3086.chunk.js.map",
+    "runtime-main.js": "/simplimov/static/js/runtime-main.b38f788d.js",
+    "runtime-main.js.map": "/simplimov/static/js/runtime-main.b38f788d.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/simplimov/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.2f2895b8.chunk.js": "/simplimov/static/js/2.2f2895b8.chunk.js",
+    "static/js/2.2f2895b8.chunk.js.map": "/simplimov/static/js/2.2f2895b8.chunk.js.map",
+    "index.html": "/simplimov/index.html",
+    "precache-manifest.3d3d05cf1bf90b2ae35feed10b90df82.js": "/simplimov/precache-manifest.3d3d05cf1bf90b2ae35feed10b90df82.js",
+    "service-worker.js": "/simplimov/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/simplimov/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.b0ad342c.chunk.css.map": "/simplimov/static/css/main.b0ad342c.chunk.css.map",
+    "static/js/2.2f2895b8.chunk.js.LICENSE.txt": "/simplimov/static/js/2.2f2895b8.chunk.js.LICENSE.txt",
+    "static/media/facebook.svg": "/simplimov/static/media/facebook.b3857282.svg",
+    "static/media/instagram.svg": "/simplimov/static/media/instagram.3b55b2ec.svg",
+    "static/media/linkedin.svg": "/simplimov/static/media/linkedin.ad6791b4.svg",
+    "static/media/twitter.svg": "/simplimov/static/media/twitter.e673fe54.svg",
+    "static/media/youtube.svg": "/simplimov/static/media/youtube.28a3403c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b38f788d.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.2f2895b8.chunk.js",
+    "static/css/main.b0ad342c.chunk.css",
+    "static/js/main.560a3086.chunk.js"
+  ]
+}

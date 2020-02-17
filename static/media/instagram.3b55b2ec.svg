@@ -1,0 +1,13 @@
+<svg width="23.999999999999996" height="23.999999999999996" xmlns="http://www.w3.org/2000/svg" class="feather feather-instagram">
+ <g>
+  <title>background</title>
+  <rect x="-1" y="-1" width="5" height="5" id="canvas_background" fill="none"/>
+ </g>
+
+ <g>
+  <title>Layer 1</title>
+  <rect x="1.833333" y="2" width="20" height="20" rx="5" ry="5" id="svg_1" fill="#ffffff"/>
+  <path d="m16.166667,11.203333a4,4 0 1 1 -3.37,-3.37a4,4 0 0 1 3.37,3.37z" id="svg_2" fill="#333333"/>
+  <line x1="17.5" y1="6.5" x2="17.51" y2="6.5" id="svg_3"/>
+ </g>
+</svg>
