@@ -15,7 +15,8 @@ Tecnologías utilizadas:
   
   
  
-Intro:
+ 
+Info:
 
   Se realizo un proyecto en React basado en los requerimientos.
   Se creo una web-app, enfocado solo en el index.
