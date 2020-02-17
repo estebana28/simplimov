@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/simplimov/static/css/main.52ebc408.chunk.css",
-    "main.js": "/simplimov/static/js/main.1ef300bc.chunk.js",
-    "main.js.map": "/simplimov/static/js/main.1ef300bc.chunk.js.map",
+    "main.js": "/simplimov/static/js/main.888b0dea.chunk.js",
+    "main.js.map": "/simplimov/static/js/main.888b0dea.chunk.js.map",
     "runtime-main.js": "/simplimov/static/js/runtime-main.b38f788d.js",
     "runtime-main.js.map": "/simplimov/static/js/runtime-main.b38f788d.js.map",
     "static/css/2.47e06e2e.chunk.css": "/simplimov/static/css/2.47e06e2e.chunk.css",
     "static/js/2.2f2895b8.chunk.js": "/simplimov/static/js/2.2f2895b8.chunk.js",
     "static/js/2.2f2895b8.chunk.js.map": "/simplimov/static/js/2.2f2895b8.chunk.js.map",
     "index.html": "/simplimov/index.html",
-    "precache-manifest.5bdd44b06829f4725b2c1fe84d91c55f.js": "/simplimov/precache-manifest.5bdd44b06829f4725b2c1fe84d91c55f.js",
+    "precache-manifest.ad51c9ccf1543d8aaa808d350b537380.js": "/simplimov/precache-manifest.ad51c9ccf1543d8aaa808d350b537380.js",
     "service-worker.js": "/simplimov/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/simplimov/static/css/2.47e06e2e.chunk.css.map",
     "static/css/main.52ebc408.chunk.css.map": "/simplimov/static/css/main.52ebc408.chunk.css.map",
@@ -25,6 +25,6 @@
     "static/css/2.47e06e2e.chunk.css",
     "static/js/2.2f2895b8.chunk.js",
     "static/css/main.52ebc408.chunk.css",
-    "static/js/main.1ef300bc.chunk.js"
+    "static/js/main.888b0dea.chunk.js"
   ]
 }

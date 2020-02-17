@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a1121d44882ee3dd0bd478f03d9753ba",
+    "revision": "b3a0645d80c07a58c8707d986bcad378",
     "url": "/simplimov/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/simplimov/static/css/2.47e06e2e.chunk.css"
   },
   {
-    "revision": "5fbcf116a35f86c9ebe4",
+    "revision": "e7fb31194ac320333ab8",
     "url": "/simplimov/static/css/main.52ebc408.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/simplimov/static/js/2.2f2895b8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5fbcf116a35f86c9ebe4",
-    "url": "/simplimov/static/js/main.1ef300bc.chunk.js"
+    "revision": "e7fb31194ac320333ab8",
+    "url": "/simplimov/static/js/main.888b0dea.chunk.js"
   },
   {
     "revision": "725b8726f425f66eb858",
